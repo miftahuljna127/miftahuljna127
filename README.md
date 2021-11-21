@@ -7,7 +7,7 @@ Hasil belajar saya:
 - www.portowebcom.epizy.com
 
 Hasil project bersama tim:
-- rajauduk.idekite.id
+- http://rajauduk.idekite.id/
 
 <!--
 **miftahuljna127/miftahuljna127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
