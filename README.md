@@ -1,4 +1,4 @@
-### Hi, My Name Is Miftahul Janna 👋
+### Hi there, I'm Miftahul Janna 👋
 
 
 
