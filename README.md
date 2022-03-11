@@ -3,7 +3,7 @@
 
 
 Hasil belajar saya: 
-- http://order-summary-fe.epizy.com
+- www.order-summary-fe.epizy.com
 - www.borneodesti.epizy.com
 - www.portowebcom.epizy.com
 
