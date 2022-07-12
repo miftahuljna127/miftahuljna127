@@ -5,7 +5,7 @@ My learning: <br>
 📓 www.borneodesti.epizy.com <br>
 📓 www.portowebcom.epizy.com <br>
 
-With Team: <br>
+Project With Team: <br>
 📓 http://rajauduk.idekite.id/
 
 # 💫 About Me:
