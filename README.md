@@ -9,7 +9,7 @@ Project With Team: <br>
 📓 http://rajauduk.idekite.id/
 
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning about Web Development, React Js.<br>🤔 I’m looking for help with Exploring New Technologies.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I like cat
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning about Web Development, React Js.<br>🤔 I’m looking for help with Exploring New Technologies.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I like cat <br> 🔗 Other links: https://linktr.ee/miftaa.td
 
 
 ## 🌐 Socials:
