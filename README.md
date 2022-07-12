@@ -1,11 +1,11 @@
-## Hi there, I'm Miftahul Janna 👋
+## Hi there, I'm Mifta 👋
 
-My learning: 
-📓 www.order-summary-fe.epizy.com
-📓 www.borneodesti.epizy.com
-📓 www.portowebcom.epizy.com
+My learning: <br>
+📓 www.order-summary-fe.epizy.com <br>
+📓 www.borneodesti.epizy.com <br>
+📓 www.portowebcom.epizy.com <br>
 
-With Team:
+With Team: <br>
 📓 http://rajauduk.idekite.id/
 
 # 💫 About Me:
