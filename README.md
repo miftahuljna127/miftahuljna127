@@ -6,7 +6,8 @@ My learning: <br>
 📓 www.portowebcom.epizy.com <br>
 
 Project With Team: <br>
-📓 http://rajauduk.idekite.id/
+📓 http://rajauduk.idekite.id/ (Backend) <br>
+📓 https://portfolia-cms.herokuapp.com/ (Frontend Landing Page)
 
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning about Web Development, React Js.<br>🤔 I’m looking for help with Exploring New Technologies.<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I like cat <br> 🔗 Other links: https://linktr.ee/miftaa.td
